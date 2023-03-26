@@ -1,0 +1,31 @@
+.tlo{
+    background-color: azure;
+}
+
+.wrapper.panel{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 225px;
+    height: 100%;
+    padding: 20px 0;
+    transition: all 0.5s ease;
+
+}
+.menu{
+    font-size: 150%;
+    font-style: oblique;
+    text-align: center;
+}
+.tabela{
+    position: center;
+}
+
+.title{
+    font-size: 400%;
+    text-align: center;
+}
+
+ul.sidePanel{
+list-style-type: square;
+}
